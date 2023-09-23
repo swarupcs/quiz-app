@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello
+           Quiz App
         </a>
       </header>
     </div>
